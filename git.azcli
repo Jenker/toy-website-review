@@ -1,0 +1,7 @@
+cd toy-website-review
+
+//kopieren des Repository in einen lokalen Ordner
+git clone https://github.com/mygithubuser/toy-website-review.git
+
+//Start VSCode neu und öffne das Repository
+code -r toy-website-review
